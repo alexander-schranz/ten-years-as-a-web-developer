@@ -2,7 +2,8 @@
 
 A reflection for myself, published for all with too much time to read about my journey.
 
-![GitHub-Mark-Light](images/10yearssuludev.svg)![GitHub-Mark-Dark](images/10yearssuludev-white.svg)
+![GitHub-Mark-Light](images/10yearssuludev-white.svg#gh-dark-mode-only)
+![GitHub-Mark-Dark](images/10yearssuludev.svg#gh-light-mode-only)
 
 Illustration by [Stephanie Engstler](https://cargocollective.com/me_around)
 
