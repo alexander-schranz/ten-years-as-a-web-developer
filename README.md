@@ -2,11 +2,18 @@
 
 A reflection for myself, published for all with too much time to read about my journey.
 
-![GitHub-Mark-Light](images/10yearssuludev-white.svg#gh-dark-mode-only)
-![GitHub-Mark-Dark](images/10yearssuludev.svg#gh-light-mode-only)
+<p align="center">
+    <img src="images/10yearssuludev-white.svg#gh-dark-mode-only" alt="Web Reports Prototype on my Website" width="500">
+    <img src="images/10yearssuludev.svg#gh-light-mode-only" alt="Web Reports Prototype on my Website" width="500">
+</p>
 
-Illustration by [Stephanie Engstler](https://cargocollective.com/me_around)
-
+<p align="center">
+    Illustration by <a href="https://cargocollective.com/me_around">Stephanie Engstler</a>
+</p>
+  
+<br/>
+<br/>
+  
 The 2nd May 2022 marks my 10 years anniversary as a web developer.
 Ten years ago, I had my first working day at [MASSIVE ART Webservices](https://www.massiveart.com/).
 
@@ -79,7 +86,9 @@ a joke on its lips and sure a very passionate developer, which I tried to keep u
 The Agency (MASSIVE ART) had its own [CMS](https://en.wikipedia.org/wiki/Content_management_system),
 which was named ZOOLU.
 
-![ZOOLU CMS Homepage](images/zoolu-cms.jpg)
+<p align="center">
+    <img src="images/zoolu-cms.jpg" alt="ZOOLU CMS Homepage">
+</p>
 
 The ZOOLU CMS was based on the [Zend Framework 1](https://framework.zend.com/manual/1.12/de/manual.html).
 It was the time before [composer](https://getcomposer.org/) did solve all our dependency problems.
@@ -94,7 +103,9 @@ business. The first precompile software I did got into contact with was
     <img src="images/codekit-logo.png" alt="Codekit Logo" width="50">
 </p>
 
-![Codekit Screenshot](images/codekit-screenshot.png)
+<p align="center">
+    <img src="images/codekit-screenshot.png" alt="Codekit Screenshot">
+</p>
 
 Which we did use to compile [LESS](https://lesscss.org/) into CSS. 
 At my early time at MASSIVE ART, it was the switch from 
@@ -157,7 +168,9 @@ on [aura js](https://github.com/aurajs/aura) wasn't. So if you never
 heard about it, it is because it died before ever reaching a 1.0 version.
 Still it was used and is still used in Sulu 1.x and does its job.
 
-![Sulu Admin Login 0.18](images/sulu-0-18.png)
+<p align="center">
+    <img src="images/sulu-0-18.png" alt="Sulu Admin Login 0.18">
+</p>
 
 ## A promising project
 
@@ -196,7 +209,9 @@ The project still is only and runs, I also think the designer [Philipp Gabl](htt
 did do a great job on the project then still after 8 years it looks great and
 modern, from my point of view.
 
-![Stickermanager Member Area](images/stickermanager.png)
+<p align="center">
+    <img src="images/stickermanager.png" alt="Stickermanager Member Area">
+</p>
 
 In the browsers dev tools console still some easter egg can be found. A hint to list
 the team members which created the project. I think on of the only easter eggs
@@ -247,7 +262,9 @@ company feeling. And with Sulu we were again in that small company feeling.
 We even got our own office, it was just 3 houses beside MASSIVE ART
 but got us into this startup like feeling. Which I must say I still miss some days this Office.
 
-![Sulu Office Steinebach 16](images/sulu-office.jpg)
+<p align="center">
+    <img src="images/sulu-office.jpg" alt="Sulu Office Steinebach 16">
+</p>
 
 ## Open Source and Conferences
 
@@ -267,7 +284,9 @@ I which did never travel a lot to other cities it was a great journey to travel
 to this big city, listen to great talks, drink some beers with other developers
 and have a hackday with people you just know before from Github profile picture.
 
-![Symfony Con 2018](images/symfony-con-2018.png)
+<p align="center">
+    <img src="images/symfony-con-2018.png" alt="Symfony Con 2018">
+</p>
 
 At that state I did already do some small pull requests to [Symfony framework](https://github.com/symfony/symfony)
 which we used in our [Sulu CMS](https://github.com/sulu/sulu). But I never thought
@@ -318,7 +337,9 @@ working on the Sulu core but also keep dependencies of Sulu up to date and worki
 with the latest versions. The 2.0 version of Sulu was finally released at 2nd October 2019,
 with a new fresh UI.
 
-![Sulu 2.0 Login Screen](images/sulu-2-0.png)
+<p align="center">
+    <img src="images/sulu-2-0.png" alt="Sulu 2.0 Login Screen">
+</p>
 
 ## Certification
 
@@ -408,14 +429,16 @@ currently online on my [old website domain](https://alexanderschranz.com/) I hop
 can bring it online under its own name the next months. And what is coming then
 we will see.
 
-![Web Reports Prototype on my Website](images/web-reports.png)
+<p align="center">
+    <img src="images/web-reports.png" alt="Web Reports Prototype on my Website">
+</p>
 
 At the end of this blog post I want to send a big thank-you.
 
-First I want to thank [Stephanie Engstler](https://cargocollective.com/me_around) for the great
-Illustration I could use for this article and for always helping and supporting me.
+First I want to thank [Stephanie Engstler](https://cargocollective.com/me_around) for the beautiful
+Illustration and for always helping and supporting me.
 
-Also I want to thank all my colleagues at [Sulu](https://sulu.io).
+Next I want to thank all my colleagues at [Sulu](https://sulu.io).
 [Thomas](https://twitter.com/chirimoya) for always pushing me to try out new things and show us new technologies.
 [Johannes](https://twitter.com/WachterJohannes/) who is fast as hell and an always happy person, joking around still in bad situations.
 [Luca](https://github.com/luca-rath) his fast learning and progress to watch was such great and still likes writing JS still after hearing me a lot moan about it.
@@ -427,9 +450,9 @@ Thank you [MASSIVE ART](https://www.massiveart.com/) which did make this even po
 Without them, I would not be sitting here as a web developer working with great people together
 and writing this article.
 
-I want to thank all other people a had work together. I know I was not always
+I would like to thank everyone I have worked with. I know I was not always
 the easiest person to work with, but I enjoyed every project we finished and every
-after work beer we had drink together. Looking forward for some more ;)
+after work beer we had drank together. Looking forward for some more ;)
 
 Cheers Alex
 
