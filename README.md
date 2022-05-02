@@ -150,7 +150,7 @@ effects and responsibility of spacing is part of the parent component, which
 make the things a lot easier to place.
 But back to the past, better said back to the year 2013.
 
-## Technology changes
+## Technology changes - from ZOOLU to Sulu
 
 In the year 2013 so after 1 year I worked at MASSIVE ART they decided to
 rewrite the CMS from stretch on a modern new technology stack. In the
@@ -310,7 +310,7 @@ Redis Streams in the Symfony Ecosystem.
 
 <p align="center">
     <a href="https://twitter.com/michaelcullumuk/status/1114890379013316609">
-        <img src="images/eu-fossa-hackathon.png" alt="Group Picture of the EU Fossa Hackathon Participant" width="300">
+        <img src="images/eu-fossa-hackathon.png" alt="Group Picture of the EU Fossa Hackathon Participant" width="400">
     </a>
 </p>
 
@@ -364,9 +364,11 @@ I was happy as after not giving it a try for about 2,5 year I could remove it
 from my list at 12. June 2021. I even got to rank myself as a [Symfony 5 Expert](https://connect.symfony.com/badge/151/symfony-5-certified-developer-expert).
 Still the best part was to finally had done it.
 
-<a href="https://twitter.com/alex_s_/status/1404460045308399620">
-    <img alt="Symfony Expert Certification" src="images/symfony-certification.png">
-</a>
+<p align="center">
+    <a href="https://twitter.com/alex_s_/status/1404460045308399620">
+        <img alt="Symfony Expert Certification" src="images/symfony-certification.png" width="400">
+    </a>
+</p>
 
 ## Publishing my first article
 
