@@ -1,11 +1,15 @@
-# 10 Years as a Full Time Webdeveloper
+# 10 Years as a Full Time Web Developer
 
 A reflection for myself, published for all with too much time to read about my journey.
 
-The 2nd May 2022 marks my 10 years anniversary as a Webdeveloper.
-Then years ago, I had my first work day at [MASSIVE ART Webservices](https://www.massiveart.com/).
+![GitHub-Mark-Light](images/10yearssuludev.svg)![GitHub-Mark-Dark](images/10yearssuludev-white.svg)
 
-I was a bloody Trainee had nearly no knowledge about the Web. My
+Illustration by [Stephanie Engstler](https://cargocollective.com/me_around)
+
+The 2nd May 2022 marks my 10 years anniversary as a web developer.
+Ten years ago, I had my first working day at [MASSIVE ART Webservices](https://www.massiveart.com/).
+
+I was a bloody Trainee, who had nearly no knowledge about the web. My
 only contact with web development was a [Dreamweaver](https://en.wikipedia.org/wiki/Adobe_Dreamweaver) book my brother had,
 some simple HTML/CSS in school focused on using [frames](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/frame)
 (I'm not talking about iframes here 😉), 
@@ -14,57 +18,56 @@ first contact with PHP. That project contains really ugly self created
 management UI for Microsoft Exchange user, communicating over [SOAP](https://en.wikipedia.org/wiki/SOAP) [WSDL](https://en.wikipedia.org/wiki/Web_Services_Description_Language)
 API with a .NET application. It was a lot of a mix between HTML and
 application logic. It was hosted using Xampp on a Windows Server and
-think was not running a long time on that one.
+I suppose it wasn't running for long time on that one.
 
 My first contact with a programming language was some years before.
-I did go to the [HTL Dornbirn](https://www.htldornbirn.at/) which had
-a how I would had said it as a 14 year old then "a school branch focused
-on computers". At that time the first 2 years we didn't got into any
+I attended the [HTL Dornbirn](https://www.htldornbirn.at/) which had
+, as I would have described it at that time as a 14 year old "a school branch focused
+on computers". At that time, the first 2 years we didn't got into any
 contact with programming languages, only some logic programs with [Kara](https://de.wikipedia.org/wiki/Kara_(Programmierumgebung)) and HTML.
 We started in the third year with C++. I think not the best language
-to start with, I remember I had hard time to get my head around [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+to start with, I remember I had a hard time to get my head around [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
 and [linked lists](https://en.wikipedia.org/wiki/Linked_list).
-Good that we had a year later continued with [Java](https://en.wikipedia.org/wiki/Java_(programming_language)),
+Good that one year later, we continued with [Java](https://en.wikipedia.org/wiki/Java_(programming_language)),
 which I think is still a great language to teach [object orientated programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 and a lot of design patterns, which I think the teacher did a great job
 focusing on this kind of things. We also learned the different sort 
-algorithm which I not longer remember because I never had a need
+algorithm which I no longer remember because I never had a need
 for them. At least they tell us there are always different ways to
-a solution and there is not always wrong or right. At the time at school
+a solution and there is not always a wrong or a right. At the time at school
 I was also a passionated Gamer, playing [Battlefield 2](https://en.wikipedia.org/wiki/Battlefield_2)
-a lot. Found out that the game could be easily modded and created my
+a lot. Found out that the game could be easily modded, I created my
 own maps and got very interested in kind of creating 3d models. The game
 used [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 as script language, a language I never learned and just copied
-some snippets together. Funfact I'm still not able to create at this time
+some snippets together. Fun fact, at this time, I'm still not able to create 
 a ["Hello World"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 in Python, as I never got into any contact with that programming language again.
 At that time I was very interested in Game Development and was experimenting
 with [OGRE 3D](https://de.wikipedia.org/wiki/OGRE) an open source cross platform
-Graphic Engine. Got a lot of fun when we did got tasks to create a 2D tank battle
+Graphic Engine. Had a lot of fun when we did got the task to create a 2D tank battle
 game with [Allegro](https://liballeg.org/) in the school.
 
-After the school and a summer of doing nothing as a 19 years old, I had to do
-my conscription, which I lucky could serve as radio operator, trying out the
+After school and a summer of doing nothing, now 19 years old, I had to do
+my compulsory military service, which I luckily could serve as radio operator, trying out the
 range of the new radio devices they got and drinking beer with my new friend,
-which I still meet from time to time again to talk about the old time and drink
-some beers.
+who I still meet from time to time to talk about the good old times and drink
+some beer.
 
-After the conscription it was time to find a job. I did not find that I could
-survive as a typical software developer doing Java, C# or even could compete with
-my colleagues which already did Internship in that companies. Also I could
-not see myself in a big company with many people, I prefer to know all people
-I work together with and not wanted to be just another employee.
-After some search I did stumble over Webdeveloper job advertisement from
+After my service it was time to get a job. I assumed that I could
+not survive as a typical software developer doing Java, C# or even could compete with
+my colleagues, who already did internships in that companies. Also I could
+not see myself in a big company with many people, I prefer to know all
+my colleagues, and not wanted to be just another employee.
+After some search I did stumble over a web developer job advertisement from
 [MASSIVE ART Webservices](https://www.massiveart.com/). I thought I know a
-little PHP, thought HTML/CSS is elegant way to create UIs and the Web
-could not be so hard at the end, so something I could maybe survive and not
-fail totally. So send my application documents, which I later found out was I think
-the baddest worst they received, still got a Job Interview and got a chance
-to start as Trainee Webdeveloper at 2nd May 2012. At this time (2022) it is
-was still the only time I send application documents to a company and so the
-only time I had ever a Job Interview with somebody. I didn't search for any
-alternative.
+little PHP, thought HTML/CSS is an elegant way to create UIs and the web
+could not be so hard in the end, so something I could maybe survive and not
+totally fail. So I sent my application documents, which, what I found out later, was I think
+the baddest they received, I still got a job interview and after that, a chance
+to start as a trainee web developer at the 2nd of May in 2012. Until today (2022) it is
+the only time I sent any application documents to a company, nor did I have
+a Job Interview with somebody. I didn't search for any alternative.
 
 ## The beginning
 
@@ -406,7 +409,12 @@ we will see.
 
 ![Web Reports Prototype on my Website](images/web-reports.png)
 
-At the end of this blog post I want to thank all my colleagues at [Sulu](https://sulu.io).
+At the end of this blog post I want to send a big thank-you.
+
+First I want to thank [Stephanie Engstler](https://cargocollective.com/me_around) for the great
+Illustration I could use for this article and for always helping and supporting me.
+
+Also I want to thank all my colleagues at [Sulu](https://sulu.io).
 [Thomas](https://twitter.com/chirimoya) for always pushing me to try out new things and show us new technologies.
 [Johannes](https://twitter.com/WachterJohannes/) who is fast as hell and an always happy person, joking around still in bad situations.
 [Luca](https://github.com/luca-rath) his fast learning and progress to watch was such great and still likes writing JS still after hearing me a lot moan about it.
@@ -414,11 +422,11 @@ At the end of this blog post I want to thank all my colleagues at [Sulu](https:/
 [Niklas](https://twitter.com/niklasnatter) which strictness to consistency did improve my quality a lot. Also his calm manner is always refreshing.
 Another thx goes here to my former colleague [Daniel R](https://twitter.com/danrot90) which was always available for an after-work beer at his time at Sulu and corrected all my english mistakes.
 
-I want to thank [MASSIVE ART](https://www.massiveart.com/) which did make this even possible
-without them I would not be sit here as a Webdeveloper working with great people together
+Thank you [MASSIVE ART](https://www.massiveart.com/) which did make this even possible.
+Without them, I would not be sitting here as a web developer working with great people together
 and writing this article.
 
-At the end I want to thank all other people a had work together. I know I was not always
+I want to thank all other people a had work together. I know I was not always
 the easiest person to work with, but I enjoyed every project we finished and every
 after work beer we had drink together. Looking forward for some more ;)
 
