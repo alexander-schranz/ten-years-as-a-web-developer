@@ -8,7 +8,7 @@ A reflection for myself, published for all with too much time to read about my j
 </p>
 
 <p align="center">
-    Illustration by <a href="https://cargocollective.com/me_around">Stephanie Engstler</a>
+    Illustration by <a href="https://cargocollective.com/meinewilma">Stephanie Engstler</a>
 </p>
   
 <br/>
